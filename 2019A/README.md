@@ -1,6 +1,7 @@
 # 2019 Fall
 
 ##论文讲解计划：
+
 第二周(2019.9.22):  常嘉辉
 
 2003``A_Neural_Probabilistic_Language_Model``
