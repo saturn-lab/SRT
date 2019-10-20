@@ -1,18 +1,10 @@
-# SRT
+# SRT Working Plan
+
 Students Research in CS-AI
 
-# 2019-09-15 
+# [2019-09-15](../Study-Plan/2019-09-15.md) 
 
-attend ： 常，姜，崔，苗，唐，陈 
+# [2019-09-22](../Study-Plan/2019-09-22.md) 
 
-``TVM: An Automated End-to-End Optimizing Compiler for Deep Learning``
-
-``Automatic Differentiation in Machine Learning: a Survey``
-
-
-# 2019-09-22 
-
-attend ： 常，崔，唐，孙，陈 
-
-``A_Neural_Probabilistic_Language_Model``
+# [2019-10-20](../Study-Plan/2019-10-20.md)
 
