@@ -9,7 +9,7 @@ Students Research in CS-AI
 |  [2019-11-02](Study-Plan/2019-11-02.md) |  [2019-11-10](Study-Plan/2019-11-10.md) |
 |  [2019-11-16](Study-Plan/2019-11-16.md) |  [2019-11-17](Study-Plan/2019-11-17.md) |
 |  [2019-11-23](Study-Plan/2019-11-23.md) |  [2019-11-30](Study-Plan/2019-11-30.md) |
-| | |
+|  [2019-12-07](Study-Plan/2019-12-07.md)| |
 | | |
 | | |
 
